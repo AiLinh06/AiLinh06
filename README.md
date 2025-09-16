@@ -1,6 +1,6 @@
 # Hi there, I'm AiLinh! 👋
 
-🎓 **Student passionate about coding and technology**  
+🎓 **Student passionate about technology and coding, focusing on applications in sound and theater**  
 💻 **Top Skill:** C++  
 🌐 [Connect with me on LinkedIn](https://www.linkedin.com/in/ailinh-ho-b8b88b332/)
 
